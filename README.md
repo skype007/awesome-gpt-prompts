@@ -29,6 +29,10 @@ All of the prompts were tested on "Bing Chat" but all should work also on ChatGP
 
 > “I aim to learn or improve [insert desired skill]. As a beginner, I need a tailored 30-day learning plan to kickstart my progress in mastering this skill.”
 
+or
+
+> "I want to learn/get better at [insert desired skill]. I am a complete beginner. Create a 30-day learning plan that will help a beginner like me learn and improve this skill."
+
 ## [Prompt #2: Improve your writing with feedback](#prompt-2)
 
 > “Please review and critique my writing below. Correct grammar, spelling errors, and suggest ways to enhance the clarity and style of my writing.”
